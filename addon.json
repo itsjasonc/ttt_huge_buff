@@ -1,0 +1,11 @@
+{
+	"title"	: "TTT HUGE Buff",
+	"type" : "weapon",
+	"tags" : [ "fun" ],
+	"ignore" :
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
